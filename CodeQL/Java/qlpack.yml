@@ -1,0 +1,5 @@
+name: codeql/java-code-hunting
+groups: [java]
+dependencies:
+    codeql/java-all: "*"
+extractor: java
